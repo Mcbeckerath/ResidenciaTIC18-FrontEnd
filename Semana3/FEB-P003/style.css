@@ -20,7 +20,7 @@ main {
     max-width: 200px;
     padding: 15px;
     border-radius: 10px;
-    color: #d9caff;
+    color: #050404;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -70,7 +70,7 @@ main {
     align-self: center;
     border: none;
     padding: 10px 20px;
-    background-color: #BA1200;
+    background-color: #0066ba;
     color: white;
     border: 1px solid white;
     border-radius: 5px;
